@@ -43,6 +43,6 @@
   "dependencies": {
     "@budibase/backend-core": "^2.3.17",
     "form-data": "^4.0.0",
-    "node-fetch": "2"
+    "node-fetch": "2.6.12"
   }
 }
