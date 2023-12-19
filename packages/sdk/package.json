@@ -11,7 +11,7 @@
     "build:sdk": "yarn run generate && rollup -c"
   },
   "dependencies": {
-    "superagent": "^5.3.0"
+    "superagent": "^7.0.2"
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^18.0.0",
