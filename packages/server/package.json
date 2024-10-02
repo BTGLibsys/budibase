@@ -71,7 +71,7 @@
     "cookies": "0.8.0",
     "csvtojson": "2.0.10",
     "curlconverter": "3.21.0",
-    "dd-trace": "3.13.2",
+    "dd-trace": "4.47.0",
     "dotenv": "8.2.0",
     "download": "8.0.0",
     "elastic-apm-node": "3.38.0",
