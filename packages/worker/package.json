@@ -43,7 +43,7 @@
     "@budibase/string-templates": "0.0.0",
     "@budibase/types": "0.0.0",
     "@koa/router": "8.0.8",
-    "@sentry/node": "6.17.7",
+    "@sentry/node": "7.75.0",
     "@techpass/passport-openidconnect": "0.3.2",
     "@types/global-agent": "2.1.1",
     "aws-sdk": "2.1030.0",
