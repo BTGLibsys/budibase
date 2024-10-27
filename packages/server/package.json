@@ -53,7 +53,7 @@
     "@budibase/string-templates": "0.0.0",
     "@budibase/types": "0.0.0",
     "@bull-board/api": "3.7.0",
-    "@bull-board/koa": "3.9.4",
+    "@bull-board/koa": "6.3.0",
     "@elastic/elasticsearch": "7.10.0",
     "@google-cloud/firestore": "5.0.2",
     "@koa/router": "8.0.8",
