@@ -76,7 +76,7 @@
     "download": "8.0.0",
     "elastic-apm-node": "3.38.0",
     "fix-path": "3.0.0",
-    "form-data": "4.0.0",
+    "form-data": "4.0.4",
     "fs-extra": "8.1.0",
     "global-agent": "3.0.0",
     "google-auth-library": "7.12.0",
