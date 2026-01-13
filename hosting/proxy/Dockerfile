@@ -1,4 +1,4 @@
-FROM nginx:latest
+FROM nginx:1.29.4-trixie
 
 # nginx.conf
 # use the default nginx behaviour for *.template files which are processed with envsubst
